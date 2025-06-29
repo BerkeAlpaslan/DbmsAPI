@@ -1,2 +1,2 @@
 # DbmsAPI
-Source Code of "Database Management Systems" Project about E-Commerce
+Source Code of ASP.NET Core API "Database Management Systems" Project about E-Commerce 
